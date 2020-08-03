@@ -5,10 +5,13 @@
 - 🔭 I’m currently working on:
   - Multiple projects at [Optum](https://optum.com/)
   - [xen-auto-usb](https://github.com/stephen-czetty/xen-auto-usb)
-  - Personal, private projects
+  - Top-secret project #1
+  - Top-secret project #2
 - 🌱 I’m currently learning:
   - The [SOAR cognitive architecture](https://soar.eecs.umich.edu/)
   - [Blender](https://blender.org/)
+  - How to raise three pre-tweens.
+- 😄 Pronouns: He/Him
 
 <!--
 **stephen-czetty/stephen-czetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
