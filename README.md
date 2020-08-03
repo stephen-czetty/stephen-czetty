@@ -2,8 +2,13 @@
 
 ## tl;dr ##
 
-- 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently learning the [SOAR cognitive architecture](https://soar.eecs.umich.edu/)
+- 🔭 I’m currently working on:
+  - Multiple projects at [Optum](https://optum.com/)
+  - [xen-auto-usb](https://github.com/stephen-czetty/xen-auto-usb)
+  - Personal, private projects
+- 🌱 I’m currently learning:
+  - The [SOAR cognitive architecture](https://soar.eecs.umich.edu/)
+  - [Blender](https://blender.org/)
 
 <!--
 **stephen-czetty/stephen-czetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
