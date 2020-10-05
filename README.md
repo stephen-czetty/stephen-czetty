@@ -14,11 +14,11 @@
 
 Born an raised in New Jersey.  After graduating high school, I left for upstate New York to pursue my bachelor's
 degree from [Rensselaer Polytechnic Institute](https://rpi.edu).  After taking a brief time off to work as an intern at
-NASA's [Jet Propulsion Labrotories](https://jpl.nasa.gov) in California, I returned to RPI to earn my degree in computer science.
+NASA's [Jet Propulsion Laboratories](https://jpl.nasa.gov) in California, I returned to RPI to earn my degree in computer science.
 
 Soon after graduation, I packed up my few things and moved to Austin, Texas to start my professional career.  My career has crossed
 various industries, including banking, legal, and, most recently, healthcare.  Over the years I have contributed to a number of
-open-source projects and even have a couple of my own.  (Contribuitors are welcome, though it seems my work is filling a niche that only
+open-source projects and even have a couple of my own.  (Contributors are welcome, though it seems my work is filling a niche that only
 I need!)
 
 Thanks to my educational background, I find it takes me little time to learn a new concept or programming language.  My favorite method
