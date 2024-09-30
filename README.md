@@ -3,12 +3,13 @@
 ## tl;dr ##
 
 - 🔭 I’m currently working on:
-  - [xen-auto-usb](https://github.com/stephen-czetty/xen-auto-usb)
+  - ???
 - 🌱 I’m currently learning:
   - [Golang](https://golang.org/) 
   - [Blender](https://blender.org/)
   - How to raise three pre-tweens.
 - I was working on:
+  - [xen-auto-usb](https://github.com/stephen-czetty/xen-auto-usb)
   - Multiple projects at [Optum](https://optum.com/)
   - The [SOAR cognitive architecture](https://soar.eecs.umich.edu/)
 
