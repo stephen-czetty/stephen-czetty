@@ -3,7 +3,12 @@
 ## tl;dr ##
 
 - 🔭 I’m currently working on:
-  - ???
+  - Mayday - A grand opus personal project.
+    - A game, written in Unreal
+    - Character models built in Blender
+    - Music using strudel.cc
+    - It's all on youtube: [@BrokenClockWorkshop](https://www.youtube.com/@brokenclockworkshop)
+      - Edited using Davinci Resolve
 - 🌱 I’m currently learning:
   - [Golang](https://golang.org/) 
   - [Blender](https://blender.org/)
